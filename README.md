@@ -1,0 +1,1 @@
+A local Windows implementation on Kerry Wang's guide (https://intuitivedataguide.medium.com/building-a-simple-etl-with-airflow-postgresql-and-docker-a2b1a2b202ec) and GitHub (https://github.com/sevkw/airflow-etl/tree/master).
